@@ -2,6 +2,5 @@
 
 Nomes dos participantes:
 
-- Isabel Costa
-
-
+-   Isabel Costa
+-   Pedro Fonseca
