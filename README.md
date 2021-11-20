@@ -5,6 +5,7 @@ Nomes dos participantes:
 -   Isabel Costa
 -   Pedro Fonseca
 -   Joana Santos
+-   Margarida Pereira
 -   Simão Jones
 - 	Agata Mascarenhas
 -   Joaquim Gomes
@@ -12,4 +13,3 @@ Nomes dos participantes:
 -   Margarida Melo
 -   Miriam Santos
 -   Margarida Melo
-
