@@ -7,4 +7,3 @@ Nomes dos participantes:
 -   Joana Santos
 -   Margarida Melo
 -   Miriam Santos
--   Margarida Rodrigues
