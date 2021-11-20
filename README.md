@@ -6,3 +6,4 @@ Nomes dos participantes:
 -   Pedro Fonseca
 -   Joana Santos
 -	Marta Dias
+-   Miriam Santos
