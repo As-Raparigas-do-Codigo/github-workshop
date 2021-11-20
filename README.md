@@ -4,3 +4,4 @@ Nomes dos participantes:
 
 -   Isabel Costa
 -   Pedro Fonseca
+-   Joana Santos
