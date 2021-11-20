@@ -3,7 +3,11 @@
 Nomes dos participantes:
 
 -   Isabel Costa
--   Pedro Fonseca
+-   Pedro Fonseca 
 -   Joana Santos 
 -   Ismael Jesus 
--   Miriam Santos 
+-   Joaquim Gomes
+-   Marta Dias
+-   Margarida Melo
+-   Miriam Santos
+-   Margarida Melo
