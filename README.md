@@ -6,3 +6,9 @@ Nomes dos participantes:
 -   Pedro Fonseca
 -   Joana Santos
 -   Simão Jones
+-   Joaquim Gomes
+-   Marta Dias
+-   Margarida Melo
+-   Miriam Santos
+-   Margarida Melo
+
