@@ -6,5 +6,7 @@ Nomes dos participantes:
 -   Pedro Fonseca
 -   Joana Santos
 -   Joaquim Gomes
+-   Marta Dias
+-   Margarida Melo
 -   Miriam Santos
 -   Margarida Melo
