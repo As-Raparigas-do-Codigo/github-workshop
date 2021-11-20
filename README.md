@@ -5,6 +5,6 @@ Nomes dos participantes:
 -   Isabel Costa
 -   Pedro Fonseca
 -   Joana Santos
--	  Marta Dias
+-   Marta Dias
 -   Margarida Melo
 -   Miriam Santos
