@@ -5,7 +5,7 @@ Nomes dos participantes:
 -   Isabel Costa
 -   Pedro Fonseca
 -   Joana Santos
--   Simão Jones
+-   vanessa maria
 - 	Agata Mascarenhas
 -   Joaquim Gomes
 -   Marta Dias
