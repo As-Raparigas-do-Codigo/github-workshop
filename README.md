@@ -10,6 +10,7 @@ Nomes dos participantes:
 -   Isabel Costa
 -   Pedro Fonseca
 -   Joana Santos
+-   Catarina Guerra
 -   vanessa maria
 -   Margarida Pereira
 -   Simão Jones
