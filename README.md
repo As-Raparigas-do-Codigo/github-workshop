@@ -9,7 +9,7 @@ Nomes dos participantes:
 - Claudia Lourenço
 -   Isabel Costa
 -   Pedro Fonseca
--   Joana Santos
+-   Joana C Santos
 -   Catarina Guerra
 -   vanessa maria
 -   Margarida Pereira
