@@ -5,11 +5,10 @@ Nomes dos participantes:
 
 - Isabel Costa
 - Pedro Fonseca
-- Joana Santos
 - Claudia Lourenço
 -   Isabel Costa
 -   Pedro Fonseca
--   Joana C Santos
+- Joana C Santos
 -   Catarina Guerra
 -   vanessa maria
 -   Margarida Pereira
